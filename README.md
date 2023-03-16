@@ -60,23 +60,35 @@ The impact of our topic is unauthorized purchases, the stealing of funds, or ide
 2) The execution:
 
 ![image](https://user-images.githubusercontent.com/74821649/225648379-a162d7dd-886e-4ac3-affb-02b0d63f3017.png)
+
+
 In the server i have a txt file that consists of the usernames and their passwords that visit 
 our phishing instagram page.
 
 ![image](https://user-images.githubusercontent.com/74821649/225648650-4e14cf64-1dae-4463-8083-61d804cc7b22.png)
+
+
 The email with the suspicious link i sent
 
 ![image](https://user-images.githubusercontent.com/74821649/225648812-a5df7520-5898-4f6e-aaf1-44a85d28dd8e.png)
+
+
 phishing website's homepage ( fake instagram )
 
 ![image](https://user-images.githubusercontent.com/74821649/225648915-12db773e-93c7-4890-bd89-7225597fe077.png)
+
+
 The user logins with her/his instagram username & password
 
 ![image](https://user-images.githubusercontent.com/74821649/225649028-3f6e3e4d-7d56-49d7-9f43-a321c83fc92f.png)
+
+
 When user clicks log in button, redirects to official instagram page without noticing 
 anything
 
 ![image](https://user-images.githubusercontent.com/74821649/225649168-9a9ed16a-8f2a-4f91-ac8c-0a313ffa3227.png)
+
+
 In the server i have a txt file that consists of the usernames and their passwords that 
 visit my phishing instagram page
 
