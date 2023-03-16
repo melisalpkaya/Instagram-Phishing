@@ -63,7 +63,7 @@ The impact of our topic is unauthorized purchases, the stealing of funds, or ide
 
 
 In the server i have a txt file that consists of the usernames and their passwords that visit 
-our phishing instagram page.
+the phishing instagram page.
 
 ![image](https://user-images.githubusercontent.com/74821649/225648650-4e14cf64-1dae-4463-8083-61d804cc7b22.png)
 
