@@ -1,6 +1,5 @@
 # Instagram-Phishing
 
-1. Develop/Implement a well-known cyber-attack:
 
 Phishing is a type of social engineering attack often used to steal user data, including login 
 credentials and credit card numbers. It occurs when an attacker, masquerading as a trusted 
